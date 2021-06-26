@@ -1,0 +1,23 @@
+   {
+    "name": "TECHZWORD",
+    "short_name": "TECHZWORD",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-KElzjJ7oNQA/YNcAndVu3KI/AAAAAAAADyA/-KynXEk0ESYObTgzK-QuZ3NiuXcXKojHgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-GXaztjWzVa4/YNcAnXsV1DI/AAAAAAAADx4/sE-19KWmslEe26cjGRc6XINGXsMiw5yMQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.techzword.com"
+}
